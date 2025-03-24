@@ -1,1 +1,1 @@
-export { SharedFeature } from './SharedFeature';
+export { SharedFeature } from './src/SharedFeature';
